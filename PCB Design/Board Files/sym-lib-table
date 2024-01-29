@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Skills Series Symbols")(type "KiCad")(uri "${KIPRJMOD}/Skills Series Symbols.kicad_sym")(options "")(descr ""))
+)
